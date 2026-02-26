@@ -11,7 +11,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: LINC private macaque data (2025). (Version draft) [Data set]. DANDI Archive.
+citation: LINC private macaque data (2026). (Version draft) [Data set]. DANDI Archive.
   https://dandiarchive.org/dandiset/001412/draft
 contributor:
 - awardNumber: 1 UM1 NS 132358-02
@@ -33,6 +33,8 @@ description: This Dandiset is meant to host private data for the LINC project. O
 ethicsApproval: []
 id: DANDI:001412/draft
 identifier: DANDI:001412
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001412/versions/draft/assets/
 name: LINC private macaque data
