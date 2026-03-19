@@ -29,8 +29,7 @@ contributor:
 dateCreated: '2025-04-08T22:52:41.455973+00:00'
 description: This Dandiset is meant to host private data for the LINC project. Once
   the data in this embargoed Dandiset are ready to be made public, they will be manually
-  moved over to Dandiset 1372 (https://dandiarchive.org/dandiset/001372) which will
-  then be unembargoed.
+  moved over to Dandiset 1372 (https://dandiarchive.org/dandiset/001372).
 ethicsApproval: []
 id: DANDI:001412/draft
 identifier: DANDI:001412
