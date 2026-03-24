@@ -7,13 +7,21 @@ about: []
 access:
 - embargoedUntil: '2028-03-10'
   schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 865
+  numberOfFiles: 1
   schemaKey: AssetsSummary
-citation: LINC private macaque data (2026). (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001412/draft
+  species: []
+  variableMeasured: []
+citation: NIH BRAIN CONNECTS - LINC UM1 - Macaque Data - Scratch (2026). (Version
+  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001412/draft
 contributor:
 - awardNumber: 1 UM1 NS 132358-02
   name: National Institutes of Health (NIH)
@@ -27,9 +35,9 @@ contributor:
   - dcite:DataManager
   schemaKey: Person
 dateCreated: '2025-04-08T22:52:41.455973+00:00'
-description: This Dandiset is meant to host private data for the LINC project. Once
-  the data in this embargoed Dandiset are ready to be made public, they will be manually
-  moved over to Dandiset 1372 (https://dandiarchive.org/dandiset/001372).
+description: This Dandiset is meant to host scratch data for the LINC project. Once
+  the data in this Dandiset are ready to be published, they will be manually moved
+  over to Dandiset 1372 (https://dandiarchive.org/dandiset/001372).
 ethicsApproval: []
 id: DANDI:001412/draft
 identifier: DANDI:001412
@@ -37,7 +45,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001412/versions/draft/assets/
-name: LINC private macaque data
+name: NIH BRAIN CONNECTS - LINC UM1 - Macaque Data - Scratch
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
